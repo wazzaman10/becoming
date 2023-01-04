@@ -1,0 +1,8 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+require 'board_tag_relations.schema'
+require 'boards.schema'
+require 'comments.schema'
+require 'tags.schema'
+require 'users.schema'
